@@ -1,0 +1,8 @@
+S->TG
+G->bTG
+G->~
+T->FU
+U->cFU
+U->~
+F->eGf
+F->x
