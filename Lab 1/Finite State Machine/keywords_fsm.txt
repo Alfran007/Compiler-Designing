@@ -1,0 +1,8 @@
+7
+int
+while
+for
+break
+if
+else
+printf

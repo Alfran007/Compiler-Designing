@@ -1,0 +1,5 @@
+S -> iEtSZ
+S -> a
+Z -> eS
+Z -> #
+E -> b

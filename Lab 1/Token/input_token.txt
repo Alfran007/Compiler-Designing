@@ -1,0 +1,20 @@
+using namespace std;
+
+int main()
+{
+    freopen("Input.txt", "r", stdin);
+    freopen("Output.txt", "w", stdout);
+
+    string str;
+    while(getline(cin, str))
+    {
+        int ind = 0;
+        while(str[ind] == ' ') ind++;
+
+        if(str[ind] == '/' && str[ind + 1] == '/') continue;
+
+        cout<<str<<endl;
+    }
+
+    return 0;
+}

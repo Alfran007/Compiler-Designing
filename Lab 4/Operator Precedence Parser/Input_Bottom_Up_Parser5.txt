@@ -1,0 +1,7 @@
+i*i^i-i/i$
+E -> E+E
+E -> E*E
+E -> E/E*
+E -> E^E
+E -> E-E
+E -> i

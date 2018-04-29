@@ -1,0 +1,2 @@
+Q1) WAP to remove left recursion in a given grammar. Also show that the converted grammar generates same language.
+Q2) Convert a given ND grammar into a D one by applying left factoring method. Also show that the converted grammar generates same language.
